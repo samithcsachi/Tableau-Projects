@@ -1,6 +1,4 @@
 # 📊 Tableau Projects
-Welcome to my Tableau Projects repository! This space showcases various data visualization projects I have created using Tableau, demonstrating my expertise in data storytelling, business intelligence, and analytical reporting.
-# 📊 Tableau Projects
 
 Welcome to my Tableau Projects repository! This space showcases various data visualization projects I have created using Tableau, demonstrating my expertise in data storytelling, business intelligence, and analytical reporting.
 
